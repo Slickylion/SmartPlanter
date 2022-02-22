@@ -1,0 +1,10 @@
+Smart Planter IOT
+
+Concept:
+A smart planter box capable of managing a planterbox so that a plant can grow without supervision.
+Data is viewed or box is controlled via an IoT interface.
+
+Goals:
+ * Box is able to record temperature.
+ * Box is able to record moisture.
+ * Box is able send data to a remote.
